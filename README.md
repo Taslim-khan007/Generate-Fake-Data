@@ -9,12 +9,6 @@ This project automatically generates **100 fake users** and inserts them into a 
 - **MySQL2** npm package
 - **Faker.js** 🎭 for fake data generation
 
-## 📂 Project Structure
-📦 SQL_CLASS
-📜 index.js # Main script to insert fake data
-📜 schema.sql # MySQL table structure
-📜 README.md # Documentation
-
 ## 🛠️ Installation Steps
 1️⃣Clone the repository**
 git clone https://github.com/your-username/your-repo-name.git
