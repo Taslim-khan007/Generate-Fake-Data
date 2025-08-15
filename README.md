@@ -10,7 +10,8 @@ This project automatically generates **100 fake users** and inserts them into a 
 - **Faker.js** 🎭 for fake data generation
 
 ## 🛠️ Installation Steps
-1️⃣Clone the repository**
+
+1️⃣ **Clone the repository**
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 2️⃣ Install dependencies
